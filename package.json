@@ -23,7 +23,7 @@
   "homepage": "https://github.com/wh-iterabb-it/kate#readme",
   "dependencies": {
     "@discordjs/rest": "^2.2.0",
-    "axios": "^1.6.8",
+    "axios": "^1.7.3",
     "discord.js": "^14.14.1",
     "got": "^14.2.1",
     "request": "^2.88.2"
